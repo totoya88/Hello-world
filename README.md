@@ -1,4 +1,3 @@
-
 def factorial(n):
     if n == 0:
         return 1
@@ -19,3 +18,4 @@ def count_vowels(string):
 
 text = "Hello World"
 print("Number of vowels in", text, "is", count_vowels(text))
+
